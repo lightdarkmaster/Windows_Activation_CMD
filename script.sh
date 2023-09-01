@@ -1,0 +1,3 @@
+@echo off
+echo Entering a command in the Command Prompt...
+cmd /k slmgr /ato
